@@ -1,1 +1,3 @@
-# Sentiment-Analysis
+# Classifying Product Reviews
+
+Sentiment Analysis using NLP
