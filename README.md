@@ -1,4 +1,4 @@
-# Classifying-a-Jane-Austen-Novel's-Textual-Data
+# Classifying-Jane-Austen's-Novels'-Textual-Data
 
 Sentiment Analysis using NLP
 
